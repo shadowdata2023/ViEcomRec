@@ -7,7 +7,7 @@ This repository introduces a Vietnamese dataset specifically designed for e-comm
 
 ## Dataset
 The dataset has 2244 items and 369,099 reviews from 304,708 users. To extract useful attributes from the product descriptions, an attribute extraction stage is performed using InstructGPT. 
-Link to data: https://drive.google.com/drive/folders/1AvR71nHxK81DEtwFBAJzYDyBAou4YgmQ?usp=sharing
+Link to data: https://www.dropbox.com/sh/q49tdoe3brjpl86/AAAWkiCQV5HkZtylzCLO-QaKa?dl=0
 
 ## Requirements
 Install Elasticsearch follow: https://www.elastic.co/guide/en/elasticsearch/reference/current/install-elasticsearch.html

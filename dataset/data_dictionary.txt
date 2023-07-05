@@ -1,5 +1,5 @@
 This is the data dictionary to explain the Dataset. There are 4 csv files describe the reviews, shop, product and extracted attributes.
-The link to the dataset: https://drive.google.com/drive/folders/1AvR71nHxK81DEtwFBAJzYDyBAou4YgmQ?usp=sharing
+The link to the dataset: https://www.dropbox.com/sh/q49tdoe3brjpl86/AAAWkiCQV5HkZtylzCLO-QaKa?dl=0
 data_reviews_purchase: Data reviews or in other words historical data with 9 attributes:
     user_id: int, unique user id ranging from 0 to 304707 for the total of 304708 users.
     product_id: int, unique product id, ranging from 0 to 2243 for the total of 2244 products.
